@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6289648311511'] 
+global.mods = [6289648311511] 
+global.prems = [6289648311511] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = 'Alvin abdillah ar r'
+global.numberowner = '6289648311511'
+global.instagram = 'https://www.facebook.com/profile.php?id=100072446465068'
+global.github = 'https://www.facebook.com/profile.php?id=100072446465068'
+global.dana = '089648311511'
+global.pulsa = '089648311511'
+global.gopay = '089648311511'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'AlphinBOTZ'
+global.gc = 'https://chat.whatsapp.com/Dse5mkgbOetEX7a0Rvofjh'
+global.web = 'https://chat.whatsapp.com/Dse5mkgbOetEX7a0Rvofjh' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm = 'pemilik bot: 089648311511'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = 'pemilik bot: 089648311511'
+global.wm3 = 'pemilik bot: 089648311511'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = 'alphinzBOTZ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
