@@ -3,17 +3,17 @@
     "noiseKey": {
       "private": {
         "type": "Buffer",
-        "data": "wJchQzp6YzQbUDoI//LidZZ2L8VmCZ6TcsOH450Vs00="
+        "data": 
       },
       "public": {
         "type": "Buffer",
-        "data": "crOeIVponsCaSR2p4DE0V9foUNDDyY4+UcO+mtC4aWA="
+        "data": "crOeIVponsCaSR2p4DE0V9foUNDDyY4+Ukurainur0ucO+mtC4aWA="
       }
     },
     "signedIdentityKey": {
       "private": {
         "type": "Buffer",
-        "data": "WOI2Kw+pH8YoFcdxgD1kigWS7HMvFpOc5kORvMOW23Q="
+        "data": "WOI2Kw+pH8YoFcdxgD1kigWS7HMvFpOc5kORqkynriuyne8nwye89yre8ryvMOW23Q="
       },
       "public": {
         "type": "Buffer",
